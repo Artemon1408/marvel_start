@@ -11,6 +11,7 @@ const AppBanner = () => {
                 Stay tuned!
             </div>
             <img src={avengersLogo} alt="Avengers logo"/>
+            
         </div>
     )
 }
