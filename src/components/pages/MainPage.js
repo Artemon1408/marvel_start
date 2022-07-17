@@ -1,9 +1,4 @@
 import { useState } from "react";
-<<<<<<< HEAD
-import { Helmet } from "react-helmet";
-=======
-
->>>>>>> a09f2c1fbcb7985681e33ca69234718a05fc69eb
 import RandomChar from "../randomChar/RandomChar";
 import CharList from "../charList/CharList";
 import CharInfo from "../charInfo/CharInfo";
